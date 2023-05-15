@@ -1,0 +1,10 @@
+@import url('https://fonts.googleapis.com/css2?family=Pacifico&display=swap');
+.signInNav{
+  padding:10px 200px !important;
+}
+.logoTitle {
+ font-family: 'Pacifico',cursive !important;
+}
+.signUpOption{
+  margin-left: 100px;
+}
